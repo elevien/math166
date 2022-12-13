@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{Belkin2019}
+Mikhail Belkin, Daniel Hsu, Siyuan Ma, and Soumik Mandal.
+\newblock Reconciling modern machine-learning practice and the classical
+  bias{\textendash}variance trade-off.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  116(32):15849--15854, jul 2019.
+
+\bibitem{Betancourt2017aa}
+Michael Betancourt.
+\newblock A conceptual introduction to hamiltonian monte carlo.
+\newblock 01 2017.
+
+\bibitem{cvijovi2015}
+Ivana Cvijovi{\'c}, Benjamin~H. Good, Elizabeth~R. Jerison, and Michael~M.
+  Desai.
+\newblock Fate of a mutation in a fluctuating environment.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  112(36):E5021--E5028, Aug 2015.
+
+\bibitem{lassig2007}
+Michael L{\"a}ssig.
+\newblock From biophysics to evolutionary genetics: statistical aspects of gene
+  regulation.
+\newblock {\em BMC Bioinformatics}, 8(Suppl 6):S7, 2007.
+
+\bibitem{kussell2005b}
+Edo Kussell and Stanislas Leibler.
+\newblock Phenotypic diversity, population growth, and information in
+  fluctuating environments.
+\newblock {\em Science}, 309(5743):2075--2078, 2005.
+
+\bibitem{kelly1956}
+John.~L. Kelly.
+\newblock A new interpretation of information rate.
+\newblock {\em Bell System Technical Journal}, 35(4):917--926, Jul 1956.
+
+\bibitem{schreiber2015}
+Sebastian~J Schreiber.
+\newblock Unifying within-and between-generation bet-hedging theories: an ode
+  to jh gillespie.
+\newblock {\em The American Naturalist}, 186(6):792--796, 2015.
+
+\bibitem{amir2014}
+Ariel Amir.
+\newblock Cell size regulation in bacteria.
+\newblock {\em Physical Review Letters}, 112(20), 2014.
+
+\bibitem{lawley2013}
+Sean~D Lawley, Jonathan~C Mattingly, and Michael~C Reed.
+\newblock Sensitivity to switching rates in stochastically switched odes.
+\newblock {\em arXiv preprint arXiv:1310.2525}, 2013.
+
+\bibitem{lawley2016}
+Sean~D Lawley.
+\newblock Boundary value problems for statistics of diffusion in a randomly
+  switching environment: Pde and sde perspectives.
+\newblock {\em SIAM Journal on Applied Dynamical Systems}, 15(3):1410--1433,
+  2016.
+
+\bibitem{Anderson2008aa}
+David~F. Anderson, Gheorghe Craciun, and Thomas~G. Kurtz.
+\newblock Product-form stationary distributions for deficiency zero chemical
+  reaction networks.
+\newblock 03 2008.
+
+\end{thebibliography}

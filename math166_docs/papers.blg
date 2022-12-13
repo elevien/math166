@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: papers.aux
+The style file: unsrt.bst
+Database file #1: main.bib
+Warning--I didn't find a database entry for "?"
+Warning--I didn't find a database entry for "Donoho2009aa"
+Warning--I didn't find a database entry for "Mattingly2018"
+Warning--empty journal in Betancourt2017aa
+Warning--empty journal in Anderson2008aa
+You've used 11 entries,
+            1791 wiz_defined-function locations,
+            534 strings with 5440 characters,
+and the built_in function-call counts, 2327 in all, are:
+= -- 212
+> -- 82
+< -- 0
++ -- 33
+- -- 22
+* -- 179
+:= -- 383
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 95
+empty$ -- 233
+format.name$ -- 22
+if$ -- 493
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 11
+newline$ -- 58
+num.names$ -- 11
+pop$ -- 21
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 34
+stack$ -- 0
+substring$ -- 192
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 24
+width$ -- 13
+write$ -- 118
+(There were 5 warnings)

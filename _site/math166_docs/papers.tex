@@ -1,0 +1,164 @@
+\documentclass{amsart}
+\usepackage{mathtools}
+\usepackage[utf8]{inputenc}
+\setcounter{secnumdepth}{0}
+
+\usepackage[margin=1in]{geometry}
+
+
+
+\newcommand{\mcS}{\mathcal S}
+\newcommand{\mcR}{\mathcal R}
+\newcommand{\mcC}{\mathcal C}
+\newcommand{\mcL}{\mathcal L}
+\newcommand{\mcH}{\mathcal H}
+\newcommand{\bS}{{\boldsymbol S}}
+\newcommand{\bR}{{\boldsymbol R}}
+\newcommand{\bC}{{\boldsymbol C}}
+\newcommand{\ba}{{\boldsymbol a}}
+\newcommand{\bs}{{\boldsymbol s}}
+\newcommand{\bff}{{\boldsymbol f}}
+\newcommand{\br}{{\boldsymbol r}}
+\newcommand{\bx}{{\boldsymbol x}}
+\newcommand{\bv}{{\boldsymbol v}}
+\newcommand{\bu}{{\boldsymbol u}}
+\newcommand{\bc}{{\boldsymbol c}}
+\newcommand{\be}{{\boldsymbol e}}
+\newcommand{\bq}{{\boldsymbol q}}
+\newcommand{\reals}{\mathbb R}
+\newcommand{\ints}{\mathbb N}
+\newcommand{\E}{\mathbb E}
+
+
+\newtheorem*{theorem}{Theorem}
+\newtheorem*{lemma}{Lemma}
+\newtheorem*{question}{Question}
+\newtheorem*{remark}{Remark}
+
+\title{Journal club papers}
+\author{Ethan Levien}
+\date{November 2022}
+
+\begin{document}
+
+\maketitle
+%\tableofcontents
+
+\section{Introduction}
+
+\section{Selecting a paper}
+
+Selecting which papers to read is can be a difficult task, especially in interdisciplinary fields, when you are new to research. How you select a paper will depend heavily on where you are in your career. If have been doing research for a few years and want to present on a paper closely related to your current research, that is okay. In that case, you probably have an idea of which papers are relevant to your ongoing projects. Perhaps there are some papers that recently came out following up on your work.
+
+If you are a new grad student, or are looking to dip into a new topic, then I recommend you find a paper which is well established in the literature. By this I mean that it is highly cited for how long it has been published.  Citation counts are not everything and many great papers are poorly cited, but they are a reflection of the influence of a paper had on subsequent scientific thinking. Thus, these papers tend to be nice entry points. To help you find such papers, see the list below. 
+
+If nothing on that list speaks to you I am happy to help find something else, provided it is not too far from my area of expertise.
+% How we read a paper depends heavily why we are reading it. In some cases, we may approach a paper with the goal of extracting a particular technique or method. In other cases, we might be trying to get some context for a topic we are researching, e.g. some background on a biological system motivating a model that is of mathematical interest. Before reading a paper, I'd like you to write a brief description of your intention; that is, what you seek to extract from the paper. 
+
+\section{Reading of papers}
+
+Here is a rough guide for reading scientific papers. Full disclosure: I've never used this myself expcliclty, but it does seem to follow how I approach reading papers.
+
+\begin{itemize}
+\item {\bf Initial reading} In an initial reading of a scientific text it can be easy to get hung up on things we don't understand. I encourage you to do an initial reading through the entire paper. If something doesn't make sense in a couple minutes, simply mark it as such and move in. After an initial reading, you'll have a better sense for the bigger picture and what points earlier in the paper may be worth diving into. You should also understand how the paper is situated within the literature. We often find that papers have many technical points which are irrelevant to our intentions or the results.
+After the first reading, try to summarize the results on a conceptual level in your own words.
+\item{\bf Deep dive into technical points} Now return to the paper for a second reading in which you determine what technical points you need to understand to arrive at the results. Pick at least one of these and really dive into them. You likely won't be able to dive deeply into EVERY technical detail, but that's okay. This may involve one or more of the following:
+\begin{itemize}
+\item  Writing code to run a simulation described in the paper.  
+\item  Learning the mathematical background needed to understand a paper. For example, if Hamilton-Jacobi equations are essential in order to understand the results in your paper, you could read a chapter of a textbook on Hamilton-Jacobi equations.   \item Filling in the gaps in a calculation.
+\end{itemize}
+\item  {\bf Connect to big picture} Reflect on the connection between the technical details to the big picture. For example, are there hidden assumptions that emerge only after you tried to reproduce a simulation? What are the implications for their key results. Or perhaps after carrying our a calculation, you better understand what is challenging about the problem and why a new approach was needed.
+\item  {\bf Future work}  What questions do you have that are not contained in the paper?  What steps might you take to answer those questions? Did you get what you expected from this paper? It's okay to be critical. Next take a look at papers which have cited this paper and read a few of the abstracts -- have they answered the questions you have posed?
+\end{itemize}
+
+\section{Report}
+
+Your report will be a 3-5 page write up of your experience reading the paper. It is not a summary of the results in the paper (although it should include an overview), but rather a documentation of you understanding. In it, you should answer the questions:
+\begin{itemize}
+\item  Why did you select this paper?   
+\item  What was the authors motivation to write this paper and how is it related to the existing literature? 
+\item  What things did you initially not understand? 
+\item  What have you done to develop the background to read the paper? 
+\item  What progress have you made in understanding this paper 
+\item  What are some interesting questions that are not answered within the paper?   
+\end{itemize}
+
+\section{Papers}
+This is list of papers that I believe would be good entry points into the literature in various areas I happen to be interested in. 
+
+\section{Data science}
+
+\subsection{Machine learning}
+\begin{itemize}
+\item \cite{Belkin2019} I believe this was the first paper to identify, in general, the so-called ``double descent" phenomena. Double recent refers to the plot of generalization error vs. the ratio of data points and model complexity. 
+\item \cite{?} A more recent physics-y paper which explains WHY the double descent phenomena occurs in terms of geometry and random matrix theory and analogies to statistical mechanics. The transition between the bias-variance trade-off regime and the over parameterezed machine learning regime can be understood as a phase transition. 
+\item \cite{Donoho2009aa} This paper observes a different type (I think) of phase transition in many algorithms which happens to be related to projections of random polytypes. Very interesting math! 
+\end{itemize}
+
+\subsection{Bayesian statistics}
+\begin{itemize}
+\item \cite{Mattingly2018} A fundamental question in Bayesian statistics is how to select priors. This paper concerns how this can optimally be done when there is finite data. 
+\item Try looking at Andrew Gelman's google scholar page and see what has been highly cited. 
+\end{itemize}
+
+
+\subsection{Computation}
+
+\begin{itemize}
+\item \cite{Betancourt2017aa} An introduction to Hamiltonian Markov chain Monte Carlo, the most widely used Markov chain Monte Carlo method in bayesian statistics. See also a more technical introduction by the same author.
+\end{itemize}
+
+\section{Biology}
+
+\subsection{Ecology and evolution}
+
+\begin{itemize}
+\item \cite{cvijovi2015} A central question in biology is to what extent we can predict the fate of a mutation: will it go extinct, coexist with its host or takeover the population (fixate)? This paper concerns the question of how environmental fluctuations influence the chance for a mutation to fixate.
+\item \cite{lassig2007}  A very interesting paper, which was one of the first to incorporate biophysical constraints of gene regulation into evolution dynamics models. A major interest of mine! 
+\item \cite{kussell2005b} This is a classic paper on the topic of phenotypic switching, the phenomena where genetically identical organisms switch between different phenotypes (e.g. growth rates) to persist in uncertain environments. Their results are closely related to the classical notion of bet-hedging \cite{kelly1956}. 
+\item \cite{schreiber2015} Another paper on bet-hedging which concerns the relationship between so-called within and between generation hedging. The idea is that organisms can hedge their bets against variation in time or space. 
+\end{itemize}
+
+\subsection{Single-cell physiology}
+\begin{itemize}
+\item \cite{amir2014} Influential paper concerning the question of how cell's maintain homeostasis of their sizes and understanding the relationship between variation in cell-cycle duration, growth rate and size. 
+%\item \cite{}
+\end{itemize}
+
+%\section{Condensed matter and statistical physics}
+%\begin{itemize}
+%\item \cite{cvijovi2015} An important 
+%\end{itemize}
+%
+%\section{Social systems}
+%I don't know much about this area, but here is one paper that looks interesting
+%\begin{itemize}
+%\item \cite{} 
+%\end{itemize}
+
+
+\section{Probability theory and stochastic processes}
+
+%\subsection{Introductory reviews}
+%\begin{itemize}
+%\item \cite{} Random matrix theory
+%\item \cite{} Large deviation theory
+%\end{itemize}
+
+
+\subsection{Stochastic hybrid systems}
+\begin{itemize}
+\item \cite{lawley2013} This paper concerns what happens when you have a linear ODE, but the matrix on the right hand side is randomly switching. 
+\item \cite{lawley2016} And this is about switching PDEs
+\end{itemize}
+
+\subsection{Chemical reaction network theory}
+\begin{itemize}
+\item \cite{Anderson2008aa} Seminal paper proving an important theorem which states that a wide class of chemical reaction networks have ``simple behavior" in the long run. This is an extension of the deficiency zero theorem, which makes a similar statement for deterministic chemical reaction networks. 
+\end{itemize}
+
+
+\newpage
+\bibliographystyle{unsrt}
+\bibliography{main.bib}
+\end{document}
