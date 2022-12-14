@@ -15,14 +15,16 @@ layout: default
 
 **Prerequisites**: Solid undergraduate education in applied mathematics
 
-**Course description**: This a "journal club" style course, and the goal of this course is to provide students with guided practice navigating the scientific liturature. This includes reading, but also the process of finding articles relavent to one's research goals and formulating research questions based on a reading.
-During class, students will present and discuss articles.
-The course will be based around the theme: What can we learn from noise? Statistical modeling of complex systems. Topics include, but are not limited to:
+
+**Course description**:  This a "journal club" style course where goal is to provide students with guided practice navigating the scientific literature. This includes reading papers, but also the process of finding articles relevant to one's research goals and formulating research questions based on a reading.
+Class time will be spent on student presentations and discussions of articles.
+This iteration of Math 166 will be based around the theme "What can we learn from noise? Statistical modeling of complex systems". This theme is sufficiently generally to cover topics that are of interest to most applied mathematics students, but will help facilitate some cohesion. Topics include, but are not limited to:
 <ul>
-  <li> Bridging microscopic and macroscopic phenomona in biological, physical and social systems </li>
+  <li> Developing probabilistic models of biological, physical and social systems </li>
   <li> Machine learning from a statistical physics perspective </li>
-  <li> Fundemental questions in stochastic processes and random matrix theory </li>
+  <li> Fundamental questions in stochastic processes and random matrix theory </li>
 </ul>
+
 
 ## Course policies
 
@@ -33,17 +35,16 @@ The course will be based around the theme: What can we learn from noise? Statist
   <ul>
     <li> Paper summary (40%) </li>
     <li> Paper presentations (30%)   </li>
-    <li> Attendence and participation (30%)   </li>
+    <li> Attendance and participation (30%)   </li>
   </ul>
   Grades will be based on a combination of self-evaluation and my own assessment (more on this in class).
-
 
 
 ## Assignments
 
 **Paper reading and summary**
 
-Outside of class, you will select at least one paper to read, summarize and present on in class.  Additional instructions can be found <a href = "https://elevien.github.io/math166_docs/papers.pdf"> here</a>.
+Outside of class, you will select at least one paper to read, summarize and present on in class.  Additional instructions can be found <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf"> here</a>.
 
 **Participation**
 

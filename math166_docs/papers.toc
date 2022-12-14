@@ -1,0 +1,15 @@
+\contentsline {section}{\tocsection {}{}{Selecting a paper}}{1}{}%
+\contentsline {section}{\tocsection {}{}{Reading of papers}}{1}{}%
+\contentsline {section}{\tocsection {}{}{Report}}{2}{}%
+\contentsline {section}{\tocsection {}{}{Papers}}{2}{}%
+\contentsline {subsection}{\tocsubsection {}{}{Data science}}{2}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Machine learning}}{2}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Bayesian statistics}}{2}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Computation}}{2}{}%
+\contentsline {subsection}{\tocsubsection {}{}{Biology}}{2}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Ecology and evolution}}{3}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Single-cell physiology}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{}{Probability theory and stochastic processes}}{3}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Stochastic hybrid systems}}{3}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{}{Chemical reaction network theory}}{3}{}%
+\contentsline {section}{\tocsection {}{}{References}}{4}{}%
