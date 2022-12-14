@@ -44,7 +44,7 @@ This iteration of Math 166 will be based around the theme "What can we learn fro
 
 **Paper reading and summary**
 
-Outside of class, you will select at least one paper to read, summarize and present on in class.  Additional instructions can be found <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf"> here</a>.
+Outside of class, you will select at least one paper (more depending on enrollment) to read, summarize and present on in class.  Additional instructions can be found <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf"> here</a>.
 
 **Participation**
 
@@ -52,7 +52,7 @@ Everyone is expected to read each paper that is presented, although not in great
 
 **Presentations**
 
-Your presentation will be a 15 minute talk. It should essentially be a summary of your report and cover all the points above. You can either use slides or give a "chalk talk."
+Your presentation will be a 15 minute talk. It should essentially be a summary of your report and cover all the points mentioned <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf">here</a>. You can either use slides or give a "chalk talk."
 
 
 ## Accessibility Needs
