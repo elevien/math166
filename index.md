@@ -1,7 +1,7 @@
 ---
 home: yes
 layout: default
-#logo: logo.svg
+logo: logo.png
 ---
 
 ## About the course
