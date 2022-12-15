@@ -18,7 +18,7 @@ logo: logo.png
 
 **Course description**:  This a "journal club" style course where goal is to provide students with guided practice navigating the scientific literature. This includes reading papers, but also the process of finding articles relevant to one's research goals and formulating research questions based on a reading.
 Class time will be spent on student presentations and discussions of articles.
-This iteration of Math 166 will be based around the theme "What can we learn from noise? Statistical modeling of complex systems". This theme is sufficiently generally to cover topics that are of interest to most applied mathematics students, but will help facilitate some cohesion. Topics include, but are not limited to:
+This iteration of Math 166 will be based around the theme "Statistical modeling of complex systems". This theme is sufficiently generally to cover topics that are of interest to most applied mathematics students, but will help facilitate some cohesion. Topics include, but are not limited to:
 <ul>
   <li> Developing probabilistic models of biological, physical and social systems </li>
   <li> Machine learning from a statistical physics perspective </li>
