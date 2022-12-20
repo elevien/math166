@@ -35,7 +35,7 @@
 \newtheorem*{question}{Question}
 \newtheorem*{remark}{Remark}
 
-\title{Reading assignment overview}
+\title{Math 166: Reading assignment overview}
 \author{Ethan Levien}
 \date{\today}
 
@@ -51,30 +51,30 @@
 
 Selecting which papers to read can be a difficult task when you are new to research, especially in interdisciplinary fields where the relevant papers are distributed across many different sub-communities. How you select a paper will depend heavily on where you are in your career. If have been doing research for a few years and want to present on a paper closely related to your current research, that is okay. In that case, you probably have an idea of which papers are relevant to your ongoing projects. Perhaps there are some papers that recently came out following up on your work.
 
-If you are a new grad student, or are looking to dip into a new topic, then I recommend you find a paper which is well established in the literature. By this I mean that it is highly cited for how long it has been published.  Citation counts are not everything and many great papers are poorly cited, but they are a reflection of the influence a paper had on subsequent scientific thinking. Thus, these papers tend to be nice entry points. I will provide more guidance on how to select papers in class, but to help you get started, see the list in Section \ref{sec:papers}.
+If you are a new grad student, or are looking to dip into a new topic, then I recommend you find a paper which is well established in the literature. By this I mean that it is highly cited for how long it has been published.  Citation counts are not everything and many great papers are poorly cited, but they are a reflection of the influence a paper had on subsequent scientific thinking. Thus, these papers tend to be nice entry points.  One strategy for finding such papers is to search for a topic you are interested in on google scholar and read the introductions of some recent papers. If they are good papers, they should summarize the literature and point you to some more foundational papers in the field.  
 
-If nothing on that list speaks to you I am happy to help find something else, provided it is not too far from my area of expertise.
+I will provide additional guidance on how to select papers in class, but to help you get started, see the list in Section \ref{sec:papers}. You might also ask your advisor for suggestions.  If nothing on that list speaks to you I am happy to help find something else, provided it is not too far from my area of expertise.
 % How we read a paper depends heavily why we are reading it. In some cases, we may approach a paper with the goal of extracting a particular technique or method. In other cases, we might be trying to get some context for a topic we are researching, e.g. some background on a biological system motivating a model that is of mathematical interest. Before reading a paper, I'd like you to write a brief description of your intention; that is, what you seek to extract from the paper. 
 
 \subsection{Tips for reading}
 
-Here is a rough guide for reading scientific papers. Full disclosure: I've never consciously followed this myself, but it does seem to follow how I approach read papers. 
+Here is a rough guide for reading scientific papers. Full disclosure: I've never consciously followed this myself, but it does seem to follow how I approach reading papers. 
 
 \begin{itemize}
 \item {\bf Initial reading} In an initial reading of a scientific text it can be easy to get hung up on things we don't understand. I encourage you to do an initial reading through the entire paper without getting hung up on technical details. If something doesn't make sense after a couple minutes of thought and some googling, simply mark it as such and move in. After an initial reading, you'll have a better sense for the bigger picture and what points earlier in the paper may be worth diving into. We often find that papers have many technical points which are irrelevant to our intentions or the results. You should also get a sense for how the paper is situated within the literature, i.e. what key papers come before. 
 After the first reading, try to summarize the results on a conceptual level in your own words.
 \item{\bf Deep dive into technical points} Now return to the paper for a second reading in which you determine what technical points you need to understand to arrive at the results. Pick at least one of these and really dive into them. You likely won't be able to dive deeply into EVERY technical detail, but that's okay. This may involve one or more of the following:
 \begin{itemize}
-\item  Writing code to run a simulation described in the paper.  
-\item  Learning the mathematical background needed to understand a calculation. For example, if Hamilton-Jacobi equations are essential in order to understand the results in your paper, you could read a chapter of a textbook on Hamilton-Jacobi equations.   \item Filling in the gaps in a calculation.
+\item  Writing code to run a simulation described in the paper. In some cases it may be necessary to start with a simplified version of the simulation, for example starting with the 1D case when the simulations in the paper are performed in 3D. That's okay. The point is to at least make some progress towards reproducing the results in the paper. 
+\item  Learning the mathematical background needed to understand a calculation. For example, if Hamilton-Jacobi equations are essential in order to understand the results in your paper, you could read a chapter of a textbook or review article on Hamilton-Jacobi equations and connect it to the paper. It's okay to incorporate other readings into your presentation! 
 \end{itemize}
-\item  {\bf Connect to big picture} Reflect on the connection between the technical details and the big picture of the paper. For example, are there hidden assumptions that emerge only after you tried to reproduce a simulation? What are the implications for their key results. Or perhaps after carrying our a calculation, you better understand what is challenging about the problem and why a new approach was needed.
+\item  {\bf Connect to big picture} Reflect on the connection between the technical details and the big picture of the paper. For example, are there hidden assumptions that emerge only after you tried to reproduce a simulation or a calculation? What are the implications for their key results? After carrying our a calculation, do you better understand what is challenging about the problem and why a new approach was needed? I've found that this process of connecting technical aspects of a paper to the conceptual points is where new research directions often emerge. 
 \item  {\bf Future work}  What questions do you have that are not contained in the paper?  What steps might you take to answer those questions? Did you get what you expected from this paper? It's okay to be critical. Next take a look at papers which have cited this paper and read a few of the abstracts -- have they answered the questions you have posed?
 \end{itemize}
 
 \subsection{Report}
 
-Your report will be a 3-5 page write up of your experience reading the paper. It is not a summary of the results in the paper (although it should include an overview), but rather a documentation of you understanding. In it, you should answer the questions:
+Your report will be a 3-5 page write up of your experience reading the paper. The report should NOT be a summary of the results in the paper (although it should include an overview), but rather a documentation of you understanding. In it, you should answer the questions:
 \begin{itemize}
 \item  Why did you select this paper?   
 \item  What was the authors motivation to write this paper and how is it related to the existing literature? 
@@ -85,7 +85,7 @@ Your report will be a 3-5 page write up of your experience reading the paper. It
 \end{itemize}
 
 \section{Papers}\label{sec:papers}
-This is list of papers that I believe would be good entry points into the literature in various areas I happen to be interested in. 
+This is list of papers that I believe would be good entry points into the literature and are consistent with the theme of the course (really they are just topics I happen to be interested in and feel I can provide guidance on).  I am happy to provide more personalized guidance. 
 
 \subsection{Data science}
 \subsubsection{Machine learning}
@@ -98,7 +98,7 @@ This is list of papers that I believe would be good entry points into the litera
 \subsubsection{Bayesian statistics}
 \begin{itemize}
 \item \cite{Mattingly2018} A fundamental question in Bayesian statistics is how to select priors. It concerns how this can optimally be done when there is finite data. 
-\item Try looking at Andrew Gelman's google scholar page and see what has been highly cited. 
+\item Try looking at Andrew Gelman's google scholar page. 
 \end{itemize}
 
 

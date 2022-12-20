@@ -18,11 +18,12 @@ logo: logo.png
 
 **Course description**:  This a "journal club" style course where goal is to provide students with guided practice navigating the scientific literature. This includes reading papers, but also the process of finding articles relevant to one's research goals and formulating research questions based on a reading.
 Class time will be spent on student presentations and discussions of articles.
-This iteration of Math 166 will be based around the theme "Statistical modeling of complex systems". This theme is sufficiently generally to cover topics that are of interest to most applied mathematics students, but will help facilitate some cohesion. Topics include, but are not limited to:
+This iteration of Math 166 will be based around the theme "Statistical modeling of complex systems". This theme is sufficiently generally to cover topics that are of interest to most applied mathematics students, but I hope keeping the theme in mind will generate some cohesion. Topics include, but are not limited to:
 <ul>
   <li> Developing probabilistic models of biological, physical and social systems </li>
-  <li> Machine learning from a statistical physics perspective </li>
+  <li> Connections between machine learning and statistical physics</li>
   <li> Fundamental questions in stochastic processes and random matrix theory </li>
+  <li> Stochastic computation, such as Markov chain Monte Carlo methods </li>
 </ul>
 
 
@@ -31,7 +32,7 @@ This iteration of Math 166 will be based around the theme "Statistical modeling 
 **Attendence**: The course meets twice a week and attendance is mandatory.
 
 **Grading**:
- Your grade will be based on the following assignments [SUBJECT TO CHANGE DEPENDING ON ENROLLMENT]:
+ Your grade will be based on the following assignments (NOTE: this is subject to change depending on enrollment):
   <ul>
     <li> Paper summary (40%) </li>
     <li> Paper presentations (30%)   </li>
@@ -46,13 +47,15 @@ This iteration of Math 166 will be based around the theme "Statistical modeling 
 
 Outside of class, you will select at least one paper (more depending on enrollment) to read, summarize and present on in class.  Additional instructions can be found <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf"> here</a>.
 
+**Presentations**
+
+Your presentation will be a 1 hour talk, while the remainder of the class will be spent discussing the paper as a class. Your talk should cover all the points mentioned <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf">here</a>. You can either use slides or give a "chalk talk." In particular, your talk should give the "big picture", but also dive into some technical detials. I am especially interested in points of confusions, since this will serve as great starting points for class discussion.
+
 **Participation**
 
 Everyone is expected to read each paper that is presented, although not in great detail. Try to come to each class with at least one question about the paper being presented.
 
-**Presentations**
 
-Your presentation will be a 15 minute talk. It should essentially be a summary of your report and cover all the points mentioned <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf">here</a>. You can either use slides or give a "chalk talk."
 
 
 ## Accessibility Needs
