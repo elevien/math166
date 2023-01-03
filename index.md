@@ -16,7 +16,7 @@ logo: logo.png
 **Prerequisites**: Solid undergraduate education in applied mathematics
 
 
-**Course description**:  This a "journal club" style course where goal is to provide students with guided practice navigating the scientific literature. This includes reading papers, but also the process of finding articles relevant to one's research goals and formulating research questions based on a reading.
+**Course description**: This a "journal club" style course where goal is to provide students with guided practice navigating the scientific literature. This includes reading papers, but also the process of finding articles relevant to one's research goals and formulating research questions based on a reading.
 Class time will be spent on student presentations and discussions of articles.
 This iteration of Math 166 will be based around the theme "Statistical modeling of complex systems". This theme is sufficiently generally to cover topics that are of interest to most applied mathematics students, but I hope keeping the theme in mind will generate some cohesion. Topics include, but are not limited to:
 <ul>
@@ -45,11 +45,11 @@ This iteration of Math 166 will be based around the theme "Statistical modeling 
 
 **Paper reading and summary**
 
-Outside of class, you will select at least one paper (more depending on enrollment) to read, summarize and present on in class.  Additional instructions can be found <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf"> here</a>.
+Outside of class, you will select at least one paper (more depending on enrollment) to read, summarize and present on in class. All papers must be approved by me. Additional instructions can be found <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf"> here</a>.
 
 **Presentations**
 
-Your presentation will be a 1 hour talk, while the remainder of the class will be spent discussing the paper as a class. Your talk should cover all the points mentioned <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf">here</a>. You can either use slides or give a "chalk talk." In particular, your talk should give the "big picture", but also dive into some technical detials. I am especially interested in points of confusions, since this will serve as great starting points for class discussion.
+Your presentation will be a 1 hour talk, while the remainder of the class will be spent discussing the paper as a class. Your talk should cover all the points mentioned <a href = "https://elevien.github.io/math166/math166_docs/papers.pdf">here</a>. You can either use slides or give a "chalk talk." In particular, your talk should give the "big picture", but also dive into some technical details. I am especially interested in points of confusions, since this will serve as great starting points for class discussion.
 
 **Participation**
 
