@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.29)  20 DEC 2022 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.29)  7 JAN 2023 18:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -281,37 +281,25 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `?' on page 2 undefined on input line 94.
-
-
-LaTeX Warning: Citation `Donoho2009aa' on page 2 undefined on input line 95.
-
-
-LaTeX Warning: Citation `Mattingly2018' on page 2 undefined on input line 100.
-
-[2] (./papers.bbl) [3] (./papers.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[2] (./papers.bbl) [3] (./papers.aux) ) 
 Here is how much of TeX's memory you used:
- 3792 strings out of 478268
- 58260 string characters out of 5846347
- 369906 words of memory out of 5000000
- 21817 multiletter control sequences out of 15000+600000
+ 3795 strings out of 478268
+ 58326 string characters out of 5846347
+ 370918 words of memory out of 5000000
+ 21820 multiletter control sequences out of 15000+600000
  475365 words of font info for 52 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  69i,6n,76p,767b,263s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></us
-r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
-ocal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
-cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
-al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on papers.pdf (3 pages, 137592 bytes).
+</usr/local/texlive/2022/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti8.pfb>
+Output written on papers.pdf (3 pages, 140257 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream

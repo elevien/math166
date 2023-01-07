@@ -7,6 +7,26 @@ Mikhail Belkin, Daniel Hsu, Siyuan Ma, and Soumik Mandal.
 \newblock {\em Proceedings of the National Academy of Sciences},
   116(32):15849--15854, jul 2019.
 
+\bibitem{rocks2022memorizing}
+Jason~W Rocks and Pankaj Mehta.
+\newblock Memorizing without overfitting: Bias, variance, and interpolation in
+  overparameterized models.
+\newblock {\em Physical Review Research}, 4(1):013201, 2022.
+
+\bibitem{donoho2009observed}
+David Donoho and Jared Tanner.
+\newblock Observed universality of phase transitions in high-dimensional
+  geometry, with implications for modern data analysis and signal processing.
+\newblock {\em Philosophical Transactions of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}, 367(1906):4273--4293, 2009.
+
+\bibitem{mattingly2018maximizing}
+Henry~H Mattingly, Mark~K Transtrum, Michael~C Abbott, and Benjamin~B Machta.
+\newblock Maximizing the information learned from finite data selects a simple
+  model.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  115(8):1760--1765, 2018.
+
 \bibitem{Betancourt2017aa}
 Michael Betancourt.
 \newblock A conceptual introduction to hamiltonian monte carlo.
